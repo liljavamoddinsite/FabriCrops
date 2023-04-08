@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "fabricrops:item/cantaloupe"
+    "layer0": "fabricrops:item/cantaloupe_slice"
   }
 }
